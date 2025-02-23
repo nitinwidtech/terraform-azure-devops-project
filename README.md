@@ -18,7 +18,7 @@ This project automates Azure infrastructure deployment using **Terraform**. It i
 ## 🔧 Setup & Deployment
 ### 1️⃣ **Clone the Repository**
 ```sh
- git clone https://github.com/yourusername/terraform-azure-devops-project.git
+ git clone https://github.com/nitinwidtech/terraform-azure-devops-project.git
  cd terraform-azure-devops-project
 ```
 
@@ -45,8 +45,8 @@ terraform apply -auto-approve
 ## 📬 Contact
 If you need **DevOps job support**, feel free to reach out! 🚀  
 
-📩 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📩 Email: nitinwidtech@gmail.com  
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/nitinprajapati393)  
 
 ## 🏷 Tags
 #Terraform #Azure #DevOps #CloudComputing #Automation #AzurePolicy #IAC
